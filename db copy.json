@@ -1,8 +1,10 @@
 {
+"api":
+{
   "machines": [
     {
       "id": 1,
-      "title": "A구역 메인 서버룸 모니터링",
+      "title": "A구역 메인 서버룸 모니터링1",
       "status": {
         "temperature": "21.5℃",
         "humidity": "42%",
@@ -12,7 +14,7 @@
     },
     {
       "id": 2,
-      "title": "B구역 생산라인 제어기",
+      "title": "B구역 생산라인 제어기 01",
       "status": {
         "temperature": "24.2℃",
         "humidity": "50%",
@@ -205,4 +207,5 @@
       "name": "임준우"
     }
   ]
+}
 }

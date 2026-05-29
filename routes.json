@@ -1,0 +1,8 @@
+{
+  "/api/machines": "/machines",
+  "/api/machines/:id": "/machines/:id",
+  "/api/reports": "/reports",
+  "/api/reports/:id": "/reports/:id",
+  "/api/managers": "/managers",
+  "/api/managers/:id": "/managers/:id"
+}

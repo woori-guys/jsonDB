@@ -1,0 +1,12 @@
+{
+  "name": "jsondb",
+  "version": "1.0.0",
+  "description": "![LOGO](/bmp/woori.png)",
+  "main": "index.js",
+  "scripts": {
+    "local":"npx json-server --watch db.json --port 5001 --routes routes.json",
+    "total":"npx json-server --watch db.json --port 5001 --host 0.0.0.0 --routes routes.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
