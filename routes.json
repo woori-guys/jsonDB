@@ -1,8 +1,8 @@
 {
-  "/api/machines": "/machines",
-  "/api/machines/:id": "/machines/:id",
-  "/api/reports": "/reports",
-  "/api/reports/:id": "/reports/:id",
-  "/api/managers": "/managers",
-  "/api/managers/:id": "/managers/:id"
+  "/remote/machines": "/machines",
+  "/remote/machines/:id": "/machines/:id",
+  "/remote/reports": "/reports",
+  "/remote/reports/:id": "/reports/:id",
+  "/remote/managers": "/managers",
+  "/remote/managers/:id": "/managers/:id"
 }

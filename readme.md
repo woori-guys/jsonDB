@@ -28,7 +28,7 @@
 # 내pc에서 json-server 실행
 
 ### npm run local로 실행
-* /api/machines
-* /api/reports
-* /api/managers
-  
+
+- /remote/machines
+- /remote/reports
+- /remote/managers
